@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shou-kato&layout=compact">
 </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shou-kato)](https://github.com/ryo-ma/github-profile-trophy)
