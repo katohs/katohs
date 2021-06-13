@@ -1,7 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
-**shou-kato/shou-kato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yatabis/yatabis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shou-kato&show_icons=true&count_private=true">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shou-kato&layout=compact">
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shou-kato)](https://github.com/ryo-ma/github-profile-trophy)
